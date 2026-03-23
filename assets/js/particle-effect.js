@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         zIndex: -1,
         opacity: 1.0,
         color: "250,208,137",
-        count: 99,
+        count: 150,
       };
     }
 
@@ -44,8 +44,8 @@ document.addEventListener("DOMContentLoaded", function () {
       for (let i = 0; i < config.count; i++) {
         const x = random() * canvas.width;
         const y = random() * canvas.height;
-        const xa = 0.5 * random() - 0.7;
-        const ya = 0.5 * random() - 0.7;
+        const xa = 0.5 * random() - 0.5;
+        const ya = 0.5 * random() - 0.5;
 
         particles.push({
           x: x,
