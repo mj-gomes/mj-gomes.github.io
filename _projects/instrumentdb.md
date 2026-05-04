@@ -11,9 +11,7 @@ date: 2026-03-10 00:01:00 +0800
     <p>
         A RESTful database to manage specifications of complex scientific instruments.
     </p>
+            <b>Contribution:</b> Adding new features, improving user experience.
     <p><a href="https://github.com/ziotom78/instrumentdb">see on GitHub <img data-src="{{ 'assets/images/projects/github.png' | relative_url }}" class="lazy w-5 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"></a></p>
-    <hr />
-    <p>
-        <h7>Contribution:</h7> Adding new features, improving user experience.
-    </p>
+
 </div>
