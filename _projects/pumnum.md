@@ -10,7 +10,7 @@ date: 2026-04-04 00:01:00 +0800
 
 
     <p>
-      A package that allows to use packages that manipulate objects with physical units, like pint or unyt, while using numba functions in no-python mode.
+      A package that allows to manipulate objects with physical units, using pint or unyt, while using numba functions in no-python mode.
     </p>
     <b>Contributions:</b> Creator and developer.
 
