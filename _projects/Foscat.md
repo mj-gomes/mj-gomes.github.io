@@ -10,7 +10,7 @@ date: 2026-03-10 00:01:00 +0800
     <p>
         A python package dedicated to image component separation based on scattering transform analysis designed for high performance computing.
     </p>
-    <b>Contribution:</b> Adapting the code to the generation of instrumental noise maps.
+    <b>Contribution:</b> Adapting the code to the generation of instrumental noise maps (ongoing).
     <br />
     
     <p><a href="https://github.com/jmdelouis/foscat">see on GitHub <img data-src="{{ 'assets/images/projects/github.png' | relative_url }}" class="lazy w-5 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"></a></p>
