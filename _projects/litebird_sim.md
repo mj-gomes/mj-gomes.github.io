@@ -9,7 +9,7 @@ date: 2026-03-10 00:01:00 +0800
     <h5>LiteBIRD Simulation Framework </h5>
 
     <img data-src="{{ 'assets/images/projects/logo_litebird.png' | relative_url }}" class="lazy w-50 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-
+    <hr />
     <p>
         A set of Python modules to simulate the instruments onboard the LiteBIRD spacecraft.
     </p>
