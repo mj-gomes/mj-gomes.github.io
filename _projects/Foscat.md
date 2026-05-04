@@ -7,7 +7,6 @@ date: 2026-03-10 00:01:00 +0800
 <div class="p-4">
     <h5>Foscat </h5>
 
-    <hr />
     <p>
         A python package dedicated to image component separation based on scattering transform analysis designed for high performance computing.
     </p>
